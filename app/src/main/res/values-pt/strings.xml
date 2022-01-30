@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima</string>
+    <string-array name="city_names">
+        <item>Belo Oriente</item>
+        <item>Lisboa</item>
+        <item>Madrid</item>
+        <item>Paris</item>
+        <item>Berlim</item>
+        <item>Copenhaga</item>
+        <item>Roma</item>
+        <item>Londres</item>
+        <item>Dublin</item>
+        <item>Praga</item>
+        <item>Viena</item>
+    </string-array>
+    <string name="openNavDrawer">Gaveta de Navegação Aberta</string>
+    <string name="closeNavDrawer">Gaveta de Navegação Fechada</string>
+    <string name="settings">Configurações</string>
+    <string name="app">APP</string>
+    <string name="metric">Métrico</string>
+    <string name="imperial">Imperial</string>
+    <string name="volume">Volume dos efeitos de clima</string>
+    <string name="ok">OK</string>
+    <string name="select_city">Selecione uma cidade</string>
+    <string name="weather_icon">Ícone do clima</string>
+    <string name="weather_data">Dados meteorológicos</string>
+    <string name="humidity">Umidade</string>
+    <string name="wind_speed">Velocidade do vento</string>
+</resources>
